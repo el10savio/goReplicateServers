@@ -1,2 +1,2 @@
 # goReplicateServers
-A golang implementation to automatically replicate a server across ports
+Automatically replicate a Go server across ports 
